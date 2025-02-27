@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <!-- Favicon ICON de la web -->
     <link rel="icon" type="image/png" href="https://png.pngtree.com/png-clipart/20240610/original/pngtree-free-shipping-truck-png-image_15294889.png">
-        <title>DeCamiones.com</title>
+        <title>DeCamiones</title>
 </head>
 <body>
     
